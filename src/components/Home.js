@@ -45,7 +45,7 @@ const Home=()=>{
                     <li className="list-inline-item px-5 bg-green rounded-2">
                               <div class="elementor-widget-wrap elementor-element-populated">
 		                      						<div class="elementor-element elementor-element-646e8ec elementor-widget elementor-widget-image mb-2 mt-2">
-		                      		            <img src="./project.png" class="rounded-3" width="600" height="350"/>
+		                      		            <img src="https://raw.githubusercontent.com/naveenprabhat/naveenprabhat.github.io/main/public/project.png" class="rounded-3" width="600" height="350"/>
 		                      		        </div>
                                               <NavLink exact to='/first'style={{ textDecoration: 'none' }}>
 		                      	        	<h5><b>Project Name</b></h5>
@@ -85,7 +85,7 @@ const Home=()=>{
                           <li className="list-inline-item px-5 bg-green rounded-2">
                               <div class="elementor-widget-wrap elementor-element-populated">
 		                      						<div class="elementor-element elementor-element-646e8ec elementor-widget elementor-widget-image mb-2 mt-2">
-		                      		            <img src="./project.png" class="rounded-10" width="600" height="350"/>
+		                      		            <img src="https://raw.githubusercontent.com/naveenprabhat/naveenprabhat.github.io/main/public/project.png" class="rounded-10" width="600" height="350"/>
 		                      		        </div>
                                               <NavLink exact to='/second'style={{ textDecoration: 'none' }}>
 		                      	        	<h5 class=""><b>Project Name</b></h5>
@@ -101,7 +101,7 @@ const Home=()=>{
                     <li className="list-inline-item px-5 bg-green rounded-2">
                               <div class="elementor-widget-wrap elementor-element-populated">
 		                      						<div class="elementor-element elementor-element-646e8ec elementor-widget elementor-widget-image mb-2 mt-2">
-		                      		            <img src="./project.png" class="rounded-3" width="600" height="350"/>
+		                      		            <img src="https://raw.githubusercontent.com/naveenprabhat/naveenprabhat.github.io/main/public/project.png" class="rounded-3" width="600" height="350"/>
 		                      		        </div>
                                               <NavLink exact to='/third'style={{ textDecoration: 'none' }}>
 		                      	        	<h5 class=""><b>Project Name</b></h5>
